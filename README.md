@@ -12,6 +12,7 @@ Lastly, you have a class component implementation to use for hints if you get st
 Here's to your last ever Tic-Tac-Toe game of your Marcy Lab School career!
 
 I think.
+
 ![cheers gif](https://media.giphy.com/media/g9582DNuQppxC/200w_d.gif)
 
 ### Extra Credit

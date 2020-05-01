@@ -12,7 +12,7 @@ Lastly, you have a class component implementation to use for hints if you get st
 Here's to your last ever Tic-Tac-Toe game of your Marcy Lab School career!
 
 I think.
-![cheers gif](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif)
+![cheers gif]("https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif")
 
 ### Extra Credit
 * Instead of rendering buttons, use React Router so that a user can use the browser to navigate back to previous moves.

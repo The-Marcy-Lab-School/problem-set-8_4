@@ -1,6 +1,5 @@
 # Problem Set 8.4
-### The Last Time I'll Ever Have You Make Tic-Tac-Toe.
-#### I promise. 🤞🏿
+### The Last Time I'll Ever Have You Make Tic-Tac-Toe. I promise. 🤞🏿
 
 ## Directions
 Refactor your Tic-Tac-Toe app _again_. You have only one goal: implement time travel. In other words, give the user the ability to go back to previous moves. This is a [working demo](https://codepen.io/gaearon/pen/gWWZgR).

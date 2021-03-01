@@ -1,4 +1,4 @@
-# Problem Set: Tic-Tac-Toe in React
+# Problem Set: Final Tic-Tac-Toe in React!
 
 ### The Last Time I'll Ever Have You Make Tic-Tac-Toe. I promise. 🤞🏿
 

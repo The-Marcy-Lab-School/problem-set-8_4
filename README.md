@@ -1,4 +1,5 @@
-# Problem Set 8.4
+# Problem Set: Tic-Tac-Toe in React
+
 ### The Last Time I'll Ever Have You Make Tic-Tac-Toe. I promise. 🤞🏿
 
 ## Directions
@@ -16,6 +17,3 @@ I think.
 
 ### Extra Credit
 * Instead of rendering buttons, use React Router so that a user can use the browser to navigate back to previous moves.
-
-## Due Date
-Submit via Pull Request by Monday, May 1 @ 9AM
